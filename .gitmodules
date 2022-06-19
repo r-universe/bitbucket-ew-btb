@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "poisFErobust"]
+	path = poisFErobust
+	url = https://bitbucket.org/ew-btb/poisson-fe-robust
+	shallow = true
+	subdir = poisFErobust
+	registered = true
